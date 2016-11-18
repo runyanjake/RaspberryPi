@@ -1,5 +1,7 @@
 # RaspberryPi
 
-Projects on the Raspberry Pi 3
+The initial "Blink" program on the Raspberry Pi 3
+
+Includes wiringPi library.
 
 @author Jake Runyan
